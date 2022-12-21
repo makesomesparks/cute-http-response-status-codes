@@ -1,6 +1,6 @@
 # cute-http-response-status-codes
 
-| <img alt="404-error-ghost" src="https://raw.githubusercontent.com/makesomesparks/cute-http-response-codes/main/images/404-error.png?token=GHSAT0AAAAAAB4LP2HF2ZQPTCY7FTHJWRXEY5C2WLA" width="200"> |
+| <img alt="404-error-ghost" src="https://raw.githubusercontent.com/makesomesparks/cute-http-response-status-codes/main/images/404-error.png" width="200"> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                 Image source: [flaticon.com](https://www.flaticon.com/free-icon/404-error_7486789) |
 
@@ -67,3 +67,9 @@ Based on [rfc9110](https://datatracker.ietf.org/doc/html/rfc9110)
 | 3xx  | Redirection   | Redirection messages    |
 | 4xx  | ClientError   | Client error responses  |
 | 5xx  | ServerError   | Server error responses  |
+
+---
+
+[<img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" width=50>](https://www.npmjs.com/package/cute-http-response-status-codes)
+&nbsp;&nbsp;
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=50>](https://github.com/makesomesparks/cute-http-response-status-codes)
