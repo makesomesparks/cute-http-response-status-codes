@@ -1,0 +1,401 @@
+[
+  {
+    "code": 100,
+    "deprecated": false,
+    "describe": "Continue",
+    "experimental": false
+  },
+  {
+    "code": 101,
+    "deprecated": false,
+    "describe": "Switching Protocols",
+    "experimental": false
+  },
+  {
+    "code": 102,
+    "deprecated": false,
+    "describe": "Processing",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 103,
+    "deprecated": false,
+    "describe": "Early Hints",
+    "experimental": true
+  },
+  {
+    "code": 200,
+    "deprecated": false,
+    "describe": "OK",
+    "experimental": false
+  },
+  {
+    "code": 201,
+    "deprecated": false,
+    "describe": "Created",
+    "experimental": false
+  },
+  {
+    "code": 202,
+    "deprecated": false,
+    "describe": "Accepted",
+    "experimental": false
+  },
+  {
+    "code": 203,
+    "deprecated": false,
+    "describe": "Non-Authoritative Information",
+    "experimental": false
+  },
+  {
+    "code": 204,
+    "deprecated": false,
+    "describe": "No Content",
+    "experimental": false
+  },
+  {
+    "code": 205,
+    "deprecated": false,
+    "describe": "Reset Content",
+    "experimental": false
+  },
+  {
+    "code": 206,
+    "deprecated": false,
+    "describe": "Partial Content",
+    "experimental": false
+  },
+  {
+    "code": 207,
+    "deprecated": false,
+    "describe": "Multi-Status",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 208,
+    "deprecated": false,
+    "describe": "Already Reported",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 226,
+    "deprecated": false,
+    "describe": "IM Used",
+    "experimental": false,
+    "extension": [
+      "HTTP Delta encoding"
+    ]
+  },
+  {
+    "code": 300,
+    "deprecated": false,
+    "describe": "Multiple Choices",
+    "experimental": false
+  },
+  {
+    "code": 301,
+    "deprecated": false,
+    "describe": "Moved Permanently",
+    "experimental": false
+  },
+  {
+    "code": 302,
+    "deprecated": false,
+    "describe": "Found",
+    "experimental": false
+  },
+  {
+    "code": 303,
+    "deprecated": false,
+    "describe": "See Other",
+    "experimental": false
+  },
+  {
+    "code": 304,
+    "deprecated": false,
+    "describe": "Not Modified",
+    "experimental": false
+  },
+  {
+    "code": 305,
+    "deprecated": true,
+    "describe": "Use Proxy",
+    "experimental": false
+  },
+  {
+    "code": 306,
+    "deprecated": false,
+    "describe": "unused",
+    "experimental": false
+  },
+  {
+    "code": 307,
+    "deprecated": false,
+    "describe": "Temporary Redirect",
+    "experimental": false
+  },
+  {
+    "code": 308,
+    "deprecated": false,
+    "describe": "Permanent Redirect",
+    "experimental": false
+  },
+  {
+    "code": 400,
+    "deprecated": false,
+    "describe": "Bad Request",
+    "experimental": false
+  },
+  {
+    "code": 401,
+    "deprecated": false,
+    "describe": "Unauthorized",
+    "experimental": false
+  },
+  {
+    "code": 402,
+    "deprecated": false,
+    "describe": "Payment Required",
+    "experimental": false
+  },
+  {
+    "code": 403,
+    "deprecated": false,
+    "describe": "Forbidden",
+    "experimental": false
+  },
+  {
+    "code": 404,
+    "deprecated": false,
+    "describe": "Not Found",
+    "experimental": false
+  },
+  {
+    "code": 405,
+    "deprecated": false,
+    "describe": "Method Not Allowed",
+    "experimental": false
+  },
+  {
+    "code": 406,
+    "deprecated": false,
+    "describe": "Not Acceptable",
+    "experimental": false
+  },
+  {
+    "code": 407,
+    "deprecated": false,
+    "describe": "Proxy Authentication Required",
+    "experimental": false
+  },
+  {
+    "code": 408,
+    "deprecated": false,
+    "describe": "Request Timeout",
+    "experimental": false
+  },
+  {
+    "code": 409,
+    "deprecated": false,
+    "describe": "Conflict",
+    "experimental": false
+  },
+  {
+    "code": 410,
+    "deprecated": false,
+    "describe": "Gone",
+    "experimental": false
+  },
+  {
+    "code": 411,
+    "deprecated": false,
+    "describe": "Length Required",
+    "experimental": false
+  },
+  {
+    "code": 412,
+    "deprecated": false,
+    "describe": "Precondition Failed",
+    "experimental": false
+  },
+  {
+    "code": 413,
+    "deprecated": false,
+    "describe": "Payload Too Large",
+    "experimental": false
+  },
+  {
+    "code": 414,
+    "deprecated": false,
+    "describe": "URI Too Long",
+    "experimental": false
+  },
+  {
+    "code": 415,
+    "deprecated": false,
+    "describe": "Unsupported Media Type",
+    "experimental": false
+  },
+  {
+    "code": 416,
+    "deprecated": false,
+    "describe": "Range Not Satisfiable",
+    "experimental": false
+  },
+  {
+    "code": 417,
+    "deprecated": false,
+    "describe": "Expectation Failed",
+    "experimental": false
+  },
+  {
+    "code": 418,
+    "deprecated": false,
+    "describe": "I'm a teapot",
+    "experimental": false
+  },
+  {
+    "code": 421,
+    "deprecated": false,
+    "describe": "Misdirected Request",
+    "experimental": false
+  },
+  {
+    "code": 422,
+    "deprecated": false,
+    "describe": "Unprocessable Entity",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 423,
+    "deprecated": false,
+    "describe": "Locked",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 424,
+    "deprecated": false,
+    "describe": "Failed Dependency",
+    "experimental": false,
+    "extension": [
+      "WebDAV"
+    ]
+  },
+  {
+    "code": 425,
+    "deprecated": false,
+    "describe": "Too Early",
+    "experimental": true
+  },
+  {
+    "code": 426,
+    "deprecated": false,
+    "describe": "Upgrade Required",
+    "experimental": false
+  },
+  {
+    "code": 428,
+    "deprecated": false,
+    "describe": "Precondition Required",
+    "experimental": false
+  },
+  {
+    "code": 429,
+    "deprecated": false,
+    "describe": "Too Many Requests",
+    "experimental": false
+  },
+  {
+    "code": 431,
+    "deprecated": false,
+    "describe": "Request Header Fields Too Large",
+    "experimental": false
+  },
+  {
+    "code": 451,
+    "deprecated": false,
+    "describe": "Unavailable For Legal Reasons",
+    "experimental": false
+  },
+  {
+    "code": 500,
+    "deprecated": false,
+    "describe": "Internal Server Error",
+    "experimental": false
+  },
+  {
+    "code": 501,
+    "deprecated": false,
+    "describe": "Not Implemented",
+    "experimental": false
+  },
+  {
+    "code": 502,
+    "deprecated": false,
+    "describe": "Bad Gateway",
+    "experimental": false
+  },
+  {
+    "code": 503,
+    "deprecated": false,
+    "describe": "Service Unavailable",
+    "experimental": false
+  },
+  {
+    "code": 504,
+    "deprecated": false,
+    "describe": "Gateway Timeout",
+    "experimental": false
+  },
+  {
+    "code": 505,
+    "deprecated": false,
+    "describe": "HTTP Version Not Supported",
+    "experimental": false
+  },
+  {
+    "code": 506,
+    "deprecated": false,
+    "describe": "Variant Also Negotiates",
+    "experimental": false
+  },
+  {
+    "code": 507,
+    "deprecated": false,
+    "describe": "Insufficient Storage( WebDAV )",
+    "experimental": false
+  },
+  {
+    "code": 508,
+    "deprecated": false,
+    "describe": "Loop Detected( WebDAV )",
+    "experimental": false
+  },
+  {
+    "code": 510,
+    "deprecated": false,
+    "describe": "Not Extended",
+    "experimental": false
+  },
+  {
+    "code": 511,
+    "deprecated": false,
+    "describe": "Network Authentication Required",
+    "experimental": false
+  }
+]

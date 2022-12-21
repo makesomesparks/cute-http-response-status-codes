@@ -1,0 +1,31 @@
+{
+  "name": "cute-http-response-status-codes",
+  "version": "0.0.1",
+  "description": "Http response status codes manager",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makesomesparks/cute-http-response-status-codes.git"
+  },
+  "keywords": [
+    "typescript",
+    "http",
+    "status code",
+    "response code",
+    "cute-http-response-status-codes"
+  ],
+  "author": "Taegyun Ko<dev@balsa.to>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makesomesparks/cute-http-response-status-codes/issues"
+  },
+  "homepage": "https://github.com/makesomesparks/cute-http-response-status-codes#readme",
+  "devDependencies": {
+    "typescript": "^4.6.0-dev.20220112"
+  }
+}
