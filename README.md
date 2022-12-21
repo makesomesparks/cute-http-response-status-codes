@@ -31,8 +31,8 @@ console.log(status)
 
 **`Result`**
 
-```json
-{
+```
+Code {
   code: 0,
   error: false,
   describe: '',
