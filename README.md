@@ -1,8 +1,8 @@
 # cute-http-response-status-codes
 
-|               <img alt="404-error-ghost" src="./images/404-error.png" width="200"> |
-| ---------------------------------------------------------------------------------: |
-| Image source: [flaticon.com](https://www.flaticon.com/free-icon/404-error_7486789) |
+| <img alt="404-error-ghost" src="https://raw.githubusercontent.com/makesomesparks/cute-http-response-codes/main/images/404-error.png?token=GHSAT0AAAAAAB4LP2HF2ZQPTCY7FTHJWRXEY5C2WLA" width="200"> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                 Image source: [flaticon.com](https://www.flaticon.com/free-icon/404-error_7486789) |
 
 
 자주 사용하는 HTTP 응답코드 관리
